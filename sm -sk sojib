@@ -1,0 +1,7 @@
+apt update
+apt upgrade
+apt install python
+pip2 install requests 
+ git clone https://github.com/SOJIBKING/sojib.git
+ cd sojib
+ python sm.py
